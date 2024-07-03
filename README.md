@@ -1,3 +1,4 @@
+2eba22b1588b4d05bb38d257c10c98b5-news api key
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

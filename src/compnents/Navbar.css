@@ -1,0 +1,30 @@
+/* Navbar.css */
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar .form-control {
+    width: 200px;
+  }
+  
+  .navbar .btn-outline-success {
+    color: #fff;
+    border-color: #28a745;
+  }
+  
+  .navbar .btn-outline-success:hover {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
